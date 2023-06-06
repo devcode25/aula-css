@@ -78,6 +78,12 @@ Comentários em CSS:
 
 Classes e ids são atributos que podem ser inseridos em qualquer tag dentro da <body>. Eles são **atributos de nomeação**, sendo class muito usada para referência em CSS e id para Javascript (apesar de que há outras boas práticas no mercado atualmente).
 Uma diferença entre os dois é que podem haver várias classes com o mesmo valor, ao passo que ids devem ser **únicos**.
+  
+Um exemplo:
+
+![página de editor de código](https://www.devmedia.com.br/arquivos/Artigos/40729/seletorClasse.png)
+  
+  
 
 #### Propriedades e tags
 
