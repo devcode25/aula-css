@@ -1,5 +1,8 @@
 # Boas vindas ao tema CSS!
 
+
+![css](https://wpformation.com/wp-content/uploads/2020/09/CSS-WordPress.jpg.webp)
+
 ### Vamos relembrar um pouco de HTML
 
 HTML é uma abreviação de **Hyper Text Markup Language** (linguagem de marcação em hipertexto). Ou seja, não se trata de uma linguagem de programação, pois não tem lógica (algoritmos, processos etc). Ele cria a **estrutura** de uma página ou aplicação web, determinando a separação de layout e seu conteúdo.
